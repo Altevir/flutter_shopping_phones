@@ -1,16 +1,8 @@
-# flutter_shopping_phones
+# Flutter E-commerce Oneplus
 
-A new Flutter project.
+## Screenshots
+## Android
+![app_smartphones](https://user-images.githubusercontent.com/11803107/179324977-b403b258-8ec0-44f2-bf35-580cec5c384a.jpeg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Licença
+MIT - Consulte o arquivo LICENSE.txt
